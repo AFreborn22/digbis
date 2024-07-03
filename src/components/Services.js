@@ -7,27 +7,21 @@ import img3 from '../img/pexels-thecoachspace-2977565.jpg';
 const Services = () => {
   const services = [
     {
-      price: "Rp.100.000.000",
+      price: "Rp.20.000.000",
       title: "Luxury",
-      description: "Consultation | Discuss | Food",
-      person: "Akmal Fauzan",
-      role: "Specialist",
+      description: "Consultation | Revision | Dashboard Web",
       image: img1
     },
     {
-      price: "Rp.50.000.000",
+      price: "Rp.10.000.000",
       title: "VIP",
-      description: "Consultation | Discuss | Food",
-      person: "Faishal Ali",
-      role: "Master",
+      description: "Consultation | Revision",
       image: img2
     },
     {
-      price: "Rp.100.000",
+      price: "Rp.2.500.000",
       title: "Classic",
-      description: "Consultation | Discuss | Food",
-      person: "Muhammad Rizky",
-      role: "Senior",
+      description: "Consultation",
       image: img3
     },
   ];

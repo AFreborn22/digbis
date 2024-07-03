@@ -15,11 +15,11 @@ const WhyUs = () => {
         </div>
         <div className="text-center">
           <div className="text-4xl mb-2">🏆</div>
-          <p>The Best</p>
+          <p>Gain New Insight</p>
         </div>
         <div className="text-center">
           <div className="text-4xl mb-2">💸</div>
-          <p>Best Price</p>
+          <p>More Profits</p>
         </div>
       </div>
     </section>
