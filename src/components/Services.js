@@ -1,5 +1,8 @@
 import React from 'react';
 import ServiceCard from './ServiceCard';
+import img1 from '../img/pexels-cottonbro-4101143.jpg';
+import img2 from '../img/pexels-shvetsa-4226256.jpg';
+import img3 from '../img/pexels-thecoachspace-2977565.jpg';
 
 const Services = () => {
   const services = [
@@ -9,7 +12,7 @@ const Services = () => {
       description: "Consultation | Discuss | Food",
       person: "Akmal Fauzan",
       role: "Specialist",
-      image: "/path-to-your-image1.jpg"
+      image: img1
     },
     {
       price: "Rp.50.000.000",
@@ -17,7 +20,7 @@ const Services = () => {
       description: "Consultation | Discuss | Food",
       person: "Faishal Ali",
       role: "Master",
-      image: "/path-to-your-image2.jpg"
+      image: img2
     },
     {
       price: "Rp.100.000",
@@ -25,7 +28,7 @@ const Services = () => {
       description: "Consultation | Discuss | Food",
       person: "Muhammad Rizky",
       role: "Senior",
-      image: "/path-to-your-image3.jpg"
+      image: img3
     },
   ];
 
